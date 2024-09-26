@@ -1,0 +1,14 @@
+Fila,Columna,Cadena,Resultado
+1,0,"Hola, qué tal papus!",No aceptada
+2,0,Hoy vamos a aprender comandos para buscar en linux!!!!,No aceptada
+4,38,find /home/donetrm/documentos/hola.txt,Aceptada
+5,97,find . -name aa1-2.a -type d -exec cp ./saludo/ho-2la.txt /home/donetrm/hola-3.txt \; >> hola.txt,Aceptada
+6,96,find . -name aa1-2.a -type d -exec cp ./saludo/ho-2la.txt /home/donetrm/hola-3.txt \; > hola.txt,Aceptada
+7,85,find . -name aa1-2.a -type d -exec cp ./saludo/ho-2la.txt /home/donetrm/hola-3.txt \;,Aceptada
+8,83,find . -name aa1-2.a -type d -exec cp ./saludo/ho-2la.txt /home/donetrm/hola-3.txt {} \;,No aceptada
+9,75,find . -exec cp ./saludo/ho-2la.txt /home/donetrm/hola-3.txt \; >> hola.txt,Aceptada
+10,20,find . -name aa1-2.a,Aceptada
+11,14,find . -type d,Aceptada
+12,28,find . -name aa1-2.a -type d,Aceptada
+13,40,find . -name aa1-2.a -type d -exec ls \;,Aceptada
+14,52,find . -name aa1-2.a -type d -exec cat hola-3.txt \;,Aceptada
