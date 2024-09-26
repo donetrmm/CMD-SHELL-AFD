@@ -1,0 +1,1309 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--Created with JFLAP 7.1.--><structure>
+	<type>fa</type>
+	<automaton>
+		<!--The list of states.-->
+		<state id="0" name="q0">
+			<x>241.0</x>
+			<y>235.0</y>
+			<initial/>
+		</state>
+		<state id="1" name="q1">
+			<x>322.0</x>
+			<y>237.0</y>
+		</state>
+		<state id="2" name="q2">
+			<x>396.0</x>
+			<y>237.0</y>
+		</state>
+		<state id="3" name="q3">
+			<x>484.0</x>
+			<y>237.0</y>
+		</state>
+		<state id="4" name="q4">
+			<x>594.0</x>
+			<y>238.0</y>
+		</state>
+		<state id="5" name="q5">
+			<x>3822.0</x>
+			<y>201.0</y>
+		</state>
+		<state id="6" name="q6">
+			<x>782.0</x>
+			<y>240.0</y>
+			<final/>
+		</state>
+		<state id="7" name="q7">
+			<x>953.0</x>
+			<y>237.0</y>
+		</state>
+		<state id="8" name="q8">
+			<x>1076.0</x>
+			<y>243.0</y>
+		</state>
+		<state id="9" name="q9">
+			<x>1262.0</x>
+			<y>132.0</y>
+		</state>
+		<state id="10" name="q10">
+			<x>1266.0</x>
+			<y>254.0</y>
+		</state>
+		<state id="11" name="q11">
+			<x>1261.0</x>
+			<y>392.0</y>
+		</state>
+		<state id="12" name="q12">
+			<x>1431.0</x>
+			<y>131.0</y>
+		</state>
+		<state id="13" name="q13">
+			<x>1556.0</x>
+			<y>129.0</y>
+		</state>
+		<state id="14" name="q14">
+			<x>1682.0</x>
+			<y>123.0</y>
+		</state>
+		<state id="15" name="q15">
+			<x>1398.0</x>
+			<y>251.0</y>
+		</state>
+		<state id="16" name="q16">
+			<x>1498.0</x>
+			<y>252.0</y>
+		</state>
+		<state id="17" name="q17">
+			<x>1637.0</x>
+			<y>252.0</y>
+		</state>
+		<state id="18" name="q18">
+			<x>1637.0</x>
+			<y>252.0</y>
+		</state>
+		<state id="19" name="q19">
+			<x>1370.0</x>
+			<y>398.0</y>
+		</state>
+		<state id="20" name="q20">
+			<x>1370.0</x>
+			<y>398.0</y>
+		</state>
+		<state id="21" name="q21">
+			<x>1480.0</x>
+			<y>417.0</y>
+		</state>
+		<state id="22" name="q22">
+			<x>1480.0</x>
+			<y>417.0</y>
+		</state>
+		<state id="23" name="q23">
+			<x>1616.0</x>
+			<y>409.0</y>
+		</state>
+		<state id="24" name="q24">
+			<x>1779.0</x>
+			<y>235.0</y>
+		</state>
+		<state id="25" name="q25">
+			<x>1897.0</x>
+			<y>230.0</y>
+			<final/>
+		</state>
+		<state id="26" name="q26">
+			<x>2025.0</x>
+			<y>243.0</y>
+		</state>
+		<state id="27" name="q27">
+			<x>2158.0</x>
+			<y>244.0</y>
+		</state>
+		<state id="28" name="q28">
+			<x>2264.0</x>
+			<y>183.0</y>
+		</state>
+		<state id="29" name="q29">
+			<x>3968.0</x>
+			<y>203.0</y>
+		</state>
+		<state id="30" name="q30">
+			<x>2419.0</x>
+			<y>154.0</y>
+		</state>
+		<state id="31" name="q31">
+			<x>2546.0</x>
+			<y>156.0</y>
+		</state>
+		<state id="32" name="q32">
+			<x>2626.0</x>
+			<y>145.0</y>
+		</state>
+		<state id="33" name="q33">
+			<x>4311.0</x>
+			<y>220.0</y>
+		</state>
+		<state id="34" name="q34">
+			<x>807.0</x>
+			<y>151.0</y>
+		</state>
+		<state id="35" name="q35">
+			<x>953.0</x>
+			<y>33.0</y>
+		</state>
+		<state id="36" name="q36">
+			<x>2738.0</x>
+			<y>139.0</y>
+		</state>
+		<state id="37" name="q37">
+			<x>2852.0</x>
+			<y>156.0</y>
+			<final/>
+		</state>
+		<state id="38" name="q38">
+			<x>2984.0</x>
+			<y>189.0</y>
+		</state>
+		<state id="39" name="q39">
+			<x>3262.0</x>
+			<y>139.0</y>
+		</state>
+		<state id="40" name="q40">
+			<x>1730.0</x>
+			<y>399.0</y>
+		</state>
+		<state id="41" name="q41">
+			<x>1874.0</x>
+			<y>439.0</y>
+			<final/>
+		</state>
+		<state id="42" name="q42">
+			<x>2019.0</x>
+			<y>412.0</y>
+		</state>
+		<state id="43" name="q43">
+			<x>2111.0</x>
+			<y>380.0</y>
+		</state>
+		<state id="44" name="q44">
+			<x>2253.0</x>
+			<y>334.0</y>
+		</state>
+		<state id="45" name="q45">
+			<x>2340.0</x>
+			<y>339.0</y>
+		</state>
+		<state id="46" name="q46">
+			<x>2428.0</x>
+			<y>344.0</y>
+		</state>
+		<state id="47" name="q47">
+			<x>2500.0</x>
+			<y>340.0</y>
+		</state>
+		<state id="48" name="q48">
+			<x>2249.0</x>
+			<y>465.0</y>
+		</state>
+		<state id="49" name="q49">
+			<x>2329.0</x>
+			<y>484.0</y>
+		</state>
+		<state id="50" name="q50">
+			<x>2417.0</x>
+			<y>486.0</y>
+		</state>
+		<state id="51" name="q51">
+			<x>2504.0</x>
+			<y>489.0</y>
+		</state>
+		<state id="52" name="q52">
+			<x>3893.0</x>
+			<y>264.0</y>
+		</state>
+		<state id="53" name="q53">
+			<x>2586.0</x>
+			<y>333.0</y>
+		</state>
+		<state id="54" name="q54">
+			<x>2693.0</x>
+			<y>319.0</y>
+			<final/>
+		</state>
+		<state id="55" name="q55">
+			<x>2780.0</x>
+			<y>304.0</y>
+		</state>
+		<state id="56" name="q56">
+			<x>2381.0</x>
+			<y>412.0</y>
+		</state>
+		<state id="57" name="q57">
+			<x>3462.0</x>
+			<y>137.0</y>
+		</state>
+		<state id="58" name="q58">
+			<x>3125.0</x>
+			<y>237.0</y>
+		</state>
+		<state id="59" name="q59">
+			<x>3268.0</x>
+			<y>251.0</y>
+		</state>
+		<state id="60" name="q60">
+			<x>3386.0</x>
+			<y>253.0</y>
+		</state>
+		<state id="61" name="q61">
+			<x>3483.0</x>
+			<y>248.0</y>
+		</state>
+		<state id="62" name="q62">
+			<x>3128.0</x>
+			<y>327.0</y>
+		</state>
+		<state id="63" name="q63">
+			<x>6329.0</x>
+			<y>268.0</y>
+		</state>
+		<state id="64" name="q64">
+			<x>679.0</x>
+			<y>376.0</y>
+		</state>
+		<state id="65" name="q65">
+			<x>4231.0</x>
+			<y>218.0</y>
+		</state>
+		<state id="66" name="q66">
+			<x>3432.0</x>
+			<y>541.0</y>
+		</state>
+		<state id="67" name="q67">
+			<x>4387.0</x>
+			<y>226.0</y>
+		</state>
+		<state id="68" name="q68">
+			<x>3597.0</x>
+			<y>252.0</y>
+		</state>
+		<state id="69" name="q69">
+			<x>799.0</x>
+			<y>399.0</y>
+		</state>
+		<state id="70" name="q70">
+			<x>3589.0</x>
+			<y>550.0</y>
+		</state>
+		<state id="71" name="q71">
+			<x>3723.0</x>
+			<y>540.0</y>
+		</state>
+		<state id="72" name="q72">
+			<x>3864.0</x>
+			<y>540.0</y>
+		</state>
+		<state id="73" name="q73">
+			<x>1104.0</x>
+			<y>77.0</y>
+			<final/>
+		</state>
+		<state id="74" name="q74">
+			<x>3940.0</x>
+			<y>393.0</y>
+		</state>
+		<state id="75" name="q75">
+			<x>4064.0</x>
+			<y>218.0</y>
+			<final/>
+		</state>
+		<state id="76" name="q76">
+			<x>3722.0</x>
+			<y>273.0</y>
+		</state>
+		<state id="77" name="q77">
+			<x>3757.0</x>
+			<y>158.0</y>
+		</state>
+		<state id="78" name="q78">
+			<x>3854.0</x>
+			<y>132.0</y>
+		</state>
+		<state id="79" name="q79">
+			<x>4561.0</x>
+			<y>214.0</y>
+		</state>
+		<state id="80" name="q80">
+			<x>4687.0</x>
+			<y>208.0</y>
+			<final/>
+		</state>
+		<state id="81" name="q81">
+			<x>1917.0</x>
+			<y>524.0</y>
+		</state>
+		<state id="82" name="q82">
+			<x>2027.0</x>
+			<y>515.0</y>
+		</state>
+		<state id="83" name="q83">
+			<x>2160.0</x>
+			<y>518.0</y>
+			<final/>
+		</state>
+		<state id="84" name="q84">
+			<x>2876.0</x>
+			<y>3.0</y>
+		</state>
+		<state id="85" name="q85">
+			<x>2972.0</x>
+			<y>-4.0</y>
+		</state>
+		<state id="86" name="q86">
+			<x>3095.0</x>
+			<y>46.0</y>
+			<final/>
+		</state>
+		<state id="87" name="q87">
+			<x>3661.0</x>
+			<y>404.0</y>
+		</state>
+		<state id="88" name="q88">
+			<x>3722.0</x>
+			<y>367.0</y>
+		</state>
+		<state id="89" name="q89">
+			<x>3848.0</x>
+			<y>409.0</y>
+		</state>
+		<state id="90" name="q90">
+			<x>4085.0</x>
+			<y>411.0</y>
+		</state>
+		<state id="91" name="q91">
+			<x>4244.0</x>
+			<y>528.0</y>
+		</state>
+		<state id="92" name="q92">
+			<x>4420.0</x>
+			<y>407.0</y>
+		</state>
+		<state id="93" name="q93">
+			<x>4628.0</x>
+			<y>306.0</y>
+		</state>
+		<state id="94" name="q94">
+			<x>4765.0</x>
+			<y>384.0</y>
+		</state>
+		<state id="95" name="q95">
+			<x>4879.0</x>
+			<y>284.0</y>
+			<final/>
+		</state>
+		<state id="96" name="q96">
+			<x>950.0</x>
+			<y>369.0</y>
+			<final/>
+		</state>
+		<state id="97" name="q97">
+			<x>2486.0</x>
+			<y>246.0</y>
+		</state>
+		<state id="98" name="q98">
+			<x>2645.0</x>
+			<y>268.0</y>
+		</state>
+		<state id="99" name="q99">
+			<x>2766.0</x>
+			<y>217.0</y>
+			<final/>
+		</state>
+		<state id="100" name="q100">
+			<x>1759.0</x>
+			<y>320.0</y>
+		</state>
+		<state id="101" name="q101">
+			<x>1907.0</x>
+			<y>321.0</y>
+		</state>
+		<state id="102" name="q102">
+			<x>1986.0</x>
+			<y>328.0</y>
+			<final/>
+		</state>
+		<state id="103" name="q103">
+			<x>3403.0</x>
+			<y>349.0</y>
+		</state>
+		<state id="104" name="q104">
+			<x>3603.0</x>
+			<y>360.0</y>
+		</state>
+		<state id="105" name="q105">
+			<x>3845.0</x>
+			<y>286.0</y>
+		</state>
+		<state id="106" name="q106">
+			<x>3661.0</x>
+			<y>717.0</y>
+		</state>
+		<state id="107" name="q107">
+			<x>3875.0</x>
+			<y>778.0</y>
+		</state>
+		<state id="108" name="q108">
+			<x>4049.0</x>
+			<y>742.0</y>
+		</state>
+		<state id="109" name="q109">
+			<x>4265.0</x>
+			<y>647.0</y>
+		</state>
+		<state id="110" name="q110">
+			<x>4416.0</x>
+			<y>619.0</y>
+		</state>
+		<state id="111" name="q111">
+			<x>4551.0</x>
+			<y>532.0</y>
+		</state>
+		<state id="112" name="q112">
+			<x>4534.0</x>
+			<y>335.0</y>
+		</state>
+		<state id="113" name="q113">
+			<x>2899.0</x>
+			<y>-157.0</y>
+		</state>
+		<state id="114" name="q114">
+			<x>4639.0</x>
+			<y>80.0</y>
+		</state>
+		<state id="115" name="q115">
+			<x>4762.0</x>
+			<y>3.0</y>
+		</state>
+		<state id="116" name="q116">
+			<x>4918.0</x>
+			<y>71.0</y>
+			<final/>
+		</state>
+		<!--The list of transitions.-->
+		<transition>
+			<from>112</from>
+			<to>52</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>59</from>
+			<to>60</to>
+			<read>e</read>
+		</transition>
+		<transition>
+			<from>36</from>
+			<to>97</to>
+			<controlx>2554</controlx>
+			<controly>188</controly>
+			<read>"</read>
+		</transition>
+		<transition>
+			<from>55</from>
+			<to>56</to>
+			<controlx>2611</controlx>
+			<controly>418</controly>
+			<read>-</read>
+		</transition>
+		<transition>
+			<from>31</from>
+			<to>32</to>
+			<read>e</read>
+		</transition>
+		<transition>
+			<from>71</from>
+			<to>71</to>
+			<read>a-z, 0-9, /, -, .</read>
+		</transition>
+		<transition>
+			<from>74</from>
+			<to>74</to>
+			<controlx>4041</controlx>
+			<controly>294</controly>
+			<read>a-z, 0-9, /, -, .</read>
+		</transition>
+		<transition>
+			<from>89</from>
+			<to>89</to>
+			<read>a-z, 0-9, /, -, .</read>
+		</transition>
+		<transition>
+			<from>92</from>
+			<to>92</to>
+			<read>a-z, 0-9, /, -, .</read>
+		</transition>
+		<transition>
+			<from>100</from>
+			<to>101</to>
+			<read>a-z, 0-9, -, .</read>
+		</transition>
+		<transition>
+			<from>33</from>
+			<to>67</to>
+			<read>&gt;</read>
+		</transition>
+		<transition>
+			<from>3</from>
+			<to>4</to>
+			<read>d</read>
+		</transition>
+		<transition>
+			<from>6</from>
+			<to>6</to>
+			<controlx>681</controlx>
+			<controly>157</controly>
+			<read>a-z, 0-9, /,  .</read>
+		</transition>
+		<transition>
+			<from>79</from>
+			<to>80</to>
+			<read>a-z, 0-9, .</read>
+		</transition>
+		<transition>
+			<from>71</from>
+			<to>72</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>16</from>
+			<to>18</to>
+			<read>e</read>
+		</transition>
+		<transition>
+			<from>89</from>
+			<to>87</to>
+			<controlx>3753</controlx>
+			<controly>444</controly>
+			<read>\</read>
+		</transition>
+		<transition>
+			<from>72</from>
+			<to>109</to>
+			<read>"</read>
+		</transition>
+		<transition>
+			<from>49</from>
+			<to>50</to>
+			<read>e</read>
+		</transition>
+		<transition>
+			<from>18</from>
+			<to>24</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>97</from>
+			<to>98</to>
+			<read>a-z. 0-9, .</read>
+		</transition>
+		<transition>
+			<from>43</from>
+			<to>48</to>
+			<read>e</read>
+		</transition>
+		<transition>
+			<from>10</from>
+			<to>15</to>
+			<read>y</read>
+		</transition>
+		<transition>
+			<from>87</from>
+			<to>88</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>70</from>
+			<to>71</to>
+			<read>a-z, 0-9, /, .</read>
+		</transition>
+		<transition>
+			<from>107</from>
+			<to>108</to>
+			<read>"</read>
+		</transition>
+		<transition>
+			<from>8</from>
+			<to>11</to>
+			<read>n</read>
+		</transition>
+		<transition>
+			<from>108</from>
+			<to>72</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>69</from>
+			<to>96</to>
+			<read>"</read>
+		</transition>
+		<transition>
+			<from>41</from>
+			<to>81</to>
+			<read>\</read>
+		</transition>
+		<transition>
+			<from>86</from>
+			<to>55</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>77</from>
+			<to>5</to>
+			<read>{</read>
+		</transition>
+		<transition>
+			<from>23</from>
+			<to>40</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>9</from>
+			<to>12</to>
+			<read>x</read>
+		</transition>
+		<transition>
+			<from>90</from>
+			<to>91</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>38</from>
+			<to>62</to>
+			<read>c</read>
+		</transition>
+		<transition>
+			<from>107</from>
+			<to>107</to>
+			<read>a-z, 0-9, /, -, " ", .</read>
+		</transition>
+		<transition>
+			<from>111</from>
+			<to>111</to>
+			<controlx>4661</controlx>
+			<controly>431</controly>
+			<read>a-z, 0-9, /, -, " ", .</read>
+		</transition>
+		<transition>
+			<from>48</from>
+			<to>49</to>
+			<read>x</read>
+		</transition>
+		<transition>
+			<from>60</from>
+			<to>61</to>
+			<read>p</read>
+		</transition>
+		<transition>
+			<from>27</from>
+			<to>9</to>
+			<controlx>2148</controlx>
+			<controly>192</controly>
+			<read>e</read>
+		</transition>
+		<transition>
+			<from>101</from>
+			<to>101</to>
+			<read>a-z, 0-9, -, " ", .</read>
+		</transition>
+		<transition>
+			<from>98</from>
+			<to>98</to>
+			<read>a-z, 0-9, -, " ", .</read>
+		</transition>
+		<transition>
+			<from>104</from>
+			<to>104</to>
+			<read>a-z, 0-9, -, " ", .</read>
+		</transition>
+		<transition>
+			<from>115</from>
+			<to>115</to>
+			<read>a-z, 0-9, -, " ", .</read>
+		</transition>
+		<transition>
+			<from>35</from>
+			<to>73</to>
+			<read>a-z, 0-9, /, .</read>
+		</transition>
+		<transition>
+			<from>91</from>
+			<to>92</to>
+			<read>a-z, 0-9, /, -, .</read>
+		</transition>
+		<transition>
+			<from>56</from>
+			<to>48</to>
+			<read>e</read>
+		</transition>
+		<transition>
+			<from>67</from>
+			<to>79</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>4</from>
+			<to>64</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>103</from>
+			<to>104</to>
+			<read>a-z, 0-9, .</read>
+		</transition>
+		<transition>
+			<from>109</from>
+			<to>110</to>
+			<read>"</read>
+		</transition>
+		<transition>
+			<from>114</from>
+			<to>115</to>
+			<read>a-z. 0-9, .</read>
+		</transition>
+		<transition>
+			<from>73</from>
+			<to>34</to>
+			<controlx>840</controlx>
+			<controly>147</controly>
+			<read>/</read>
+		</transition>
+		<transition>
+			<from>58</from>
+			<to>59</to>
+			<read>r</read>
+		</transition>
+		<transition>
+			<from>24</from>
+			<to>25</to>
+			<read>d, f</read>
+		</transition>
+		<transition>
+			<from>76</from>
+			<to>77</to>
+			<controlx>3614</controlx>
+			<controly>205</controly>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>93</from>
+			<to>94</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>83</from>
+			<to>81</to>
+			<controlx>2021</controlx>
+			<controly>629</controly>
+			<read>\</read>
+		</transition>
+		<transition>
+			<from>40</from>
+			<to>100</to>
+			<read>"</read>
+		</transition>
+		<transition>
+			<from>101</from>
+			<to>102</to>
+			<read>"</read>
+		</transition>
+		<transition>
+			<from>28</from>
+			<to>30</to>
+			<read>a</read>
+		</transition>
+		<transition>
+			<from>33</from>
+			<to>79</to>
+			<controlx>4320</controlx>
+			<controly>123</controly>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>62</from>
+			<to>66</to>
+			<controlx>3265</controlx>
+			<controly>497</controly>
+			<read>p</read>
+		</transition>
+		<transition>
+			<from>26</from>
+			<to>27</to>
+			<read>-</read>
+		</transition>
+		<transition>
+			<from>104</from>
+			<to>105</to>
+			<read>"</read>
+		</transition>
+		<transition>
+			<from>12</from>
+			<to>13</to>
+			<read>e</read>
+		</transition>
+		<transition>
+			<from>5</from>
+			<to>78</to>
+			<read>}</read>
+		</transition>
+		<transition>
+			<from>6</from>
+			<to>7</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>89</from>
+			<to>72</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>8</from>
+			<to>9</to>
+			<read>e</read>
+		</transition>
+		<transition>
+			<from>22</from>
+			<to>23</to>
+			<read>e</read>
+		</transition>
+		<transition>
+			<from>7</from>
+			<to>8</to>
+			<read>-</read>
+		</transition>
+		<transition>
+			<from>68</from>
+			<to>76</to>
+			<read>a-z, 0-9, .</read>
+		</transition>
+		<transition>
+			<from>37</from>
+			<to>55</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>71</from>
+			<to>87</to>
+			<controlx>3561</controlx>
+			<controly>441</controly>
+			<read>\</read>
+		</transition>
+		<transition>
+			<from>65</from>
+			<to>33</to>
+			<read>&gt;</read>
+		</transition>
+		<transition>
+			<from>20</from>
+			<to>22</to>
+			<read>m</read>
+		</transition>
+		<transition>
+			<from>34</from>
+			<to>35</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>51</from>
+			<to>38</to>
+			<controlx>2821</controlx>
+			<controly>433</controly>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>2</from>
+			<to>3</to>
+			<read>n</read>
+		</transition>
+		<transition>
+			<from>106</from>
+			<to>107</to>
+			<read>a-z, 0-9, /, .</read>
+		</transition>
+		<transition>
+			<from>94</from>
+			<to>95</to>
+			<read>a-z, 0-9, -, .</read>
+		</transition>
+		<transition>
+			<from>25</from>
+			<to>26</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>54</from>
+			<to>55</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>15</from>
+			<to>16</to>
+			<read>p</read>
+		</transition>
+		<transition>
+			<from>83</from>
+			<to>42</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>32</from>
+			<to>36</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>96</from>
+			<to>7</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>86</from>
+			<to>84</to>
+			<controlx>2998</controlx>
+			<controly>80</controly>
+			<read>\</read>
+		</transition>
+		<transition>
+			<from>64</from>
+			<to>6</to>
+			<read>a-z, 0-9, /, .</read>
+		</transition>
+		<transition>
+			<from>74</from>
+			<to>52</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>39</from>
+			<to>57</to>
+			<read>s</read>
+		</transition>
+		<transition>
+			<from>30</from>
+			<to>31</to>
+			<read>m</read>
+		</transition>
+		<transition>
+			<from>64</from>
+			<to>69</to>
+			<read>"</read>
+		</transition>
+		<transition>
+			<from>84</from>
+			<to>85</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>42</from>
+			<to>43</to>
+			<read>-</read>
+		</transition>
+		<transition>
+			<from>37</from>
+			<to>37</to>
+			<read>a-z, 0-9, -, .</read>
+		</transition>
+		<transition>
+			<from>76</from>
+			<to>76</to>
+			<controlx>3744</controlx>
+			<controly>210</controly>
+			<read>a-z, 0-9, -, .</read>
+		</transition>
+		<transition>
+			<from>41</from>
+			<to>41</to>
+			<read>a-z, 0-9, -, .</read>
+		</transition>
+		<transition>
+			<from>80</from>
+			<to>80</to>
+			<read>a-z, 0-9, -, .</read>
+		</transition>
+		<transition>
+			<from>86</from>
+			<to>86</to>
+			<read>a-z, 0-9, -, .</read>
+		</transition>
+		<transition>
+			<from>83</from>
+			<to>83</to>
+			<read>a-z, 0-9, -, .</read>
+		</transition>
+		<transition>
+			<from>95</from>
+			<to>95</to>
+			<read>a-z, 0-9, -, .</read>
+		</transition>
+		<transition>
+			<from>92</from>
+			<to>52</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>8</from>
+			<to>10</to>
+			<read>t</read>
+		</transition>
+		<transition>
+			<from>70</from>
+			<to>106</to>
+			<read>"</read>
+		</transition>
+		<transition>
+			<from>72</from>
+			<to>74</to>
+			<read>a-z, 0-9, /, .</read>
+		</transition>
+		<transition>
+			<from>73</from>
+			<to>7</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>46</from>
+			<to>47</to>
+			<read>e</read>
+		</transition>
+		<transition>
+			<from>95</from>
+			<to>93</to>
+			<read>\</read>
+		</transition>
+		<transition>
+			<from>57</from>
+			<to>77</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>111</from>
+			<to>112</to>
+			<read>"</read>
+		</transition>
+		<transition>
+			<from>68</from>
+			<to>103</to>
+			<read>"</read>
+		</transition>
+		<transition>
+			<from>110</from>
+			<to>111</to>
+			<read>a-z, 0-9, /, .</read>
+		</transition>
+		<transition>
+			<from>47</from>
+			<to>53</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>43</from>
+			<to>44</to>
+			<read>t</read>
+		</transition>
+		<transition>
+			<from>38</from>
+			<to>58</to>
+			<read>g</read>
+		</transition>
+		<transition>
+			<from>41</from>
+			<to>42</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>105</from>
+			<to>77</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>27</from>
+			<to>28</to>
+			<read>n</read>
+		</transition>
+		<transition>
+			<from>40</from>
+			<to>41</to>
+			<read>a-z, 0-9, .</read>
+		</transition>
+		<transition>
+			<from>52</from>
+			<to>29</to>
+			<read>\</read>
+		</transition>
+		<transition>
+			<from>85</from>
+			<to>86</to>
+			<read>a-z, 0-9, /, -, .</read>
+		</transition>
+		<transition>
+			<from>88</from>
+			<to>89</to>
+			<read>a-z, 0-9, /, -, .</read>
+		</transition>
+		<transition>
+			<from>66</from>
+			<to>70</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>44</from>
+			<to>45</to>
+			<read>y</read>
+		</transition>
+		<transition>
+			<from>78</from>
+			<to>52</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>36</from>
+			<to>37</to>
+			<read>a-z, 0-9, .</read>
+		</transition>
+		<transition>
+			<from>69</from>
+			<to>69</to>
+			<read>a-z, 0-9, /, " ", .</read>
+		</transition>
+		<transition>
+			<from>13</from>
+			<to>14</to>
+			<read>c</read>
+		</transition>
+		<transition>
+			<from>37</from>
+			<to>84</to>
+			<controlx>2981</controlx>
+			<controly>61</controly>
+			<read>\</read>
+		</transition>
+		<transition>
+			<from>81</from>
+			<to>82</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>11</from>
+			<to>20</to>
+			<read>a</read>
+		</transition>
+		<transition>
+			<from>75</from>
+			<to>65</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>0</from>
+			<to>1</to>
+			<read>f</read>
+		</transition>
+		<transition>
+			<from>61</from>
+			<to>68</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>29</from>
+			<to>75</to>
+			<read>;</read>
+		</transition>
+		<transition>
+			<from>1</from>
+			<to>2</to>
+			<read>i</read>
+		</transition>
+		<transition>
+			<from>102</from>
+			<to>42</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>45</from>
+			<to>46</to>
+			<read>p</read>
+		</transition>
+		<transition>
+			<from>82</from>
+			<to>83</to>
+			<read>a-z, 0-9, -, .</read>
+		</transition>
+		<transition>
+			<from>73</from>
+			<to>73</to>
+			<read>a-z, 0-9, /, .</read>
+		</transition>
+		<transition>
+			<from>80</from>
+			<to>93</to>
+			<read>\</read>
+		</transition>
+		<transition>
+			<from>14</from>
+			<to>38</to>
+			<controlx>3185</controlx>
+			<controly>-17</controly>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>6</from>
+			<to>34</to>
+			<read>\</read>
+		</transition>
+		<transition>
+			<from>53</from>
+			<to>54</to>
+			<read>d, f</read>
+		</transition>
+		<transition>
+			<from>79</from>
+			<to>114</to>
+			<read>"</read>
+		</transition>
+		<transition>
+			<from>77</from>
+			<to>29</to>
+			<controlx>3829</controlx>
+			<controly>-3</controly>
+			<read>\</read>
+		</transition>
+		<transition>
+			<from>92</from>
+			<to>90</to>
+			<read>\</read>
+		</transition>
+		<transition>
+			<from>50</from>
+			<to>51</to>
+			<read>c</read>
+		</transition>
+		<transition>
+			<from>98</from>
+			<to>99</to>
+			<read>"</read>
+		</transition>
+		<transition>
+			<from>38</from>
+			<to>39</to>
+			<read>l</read>
+		</transition>
+		<transition>
+			<from>99</from>
+			<to>55</to>
+			<read>" "</read>
+		</transition>
+		<transition>
+			<from>74</from>
+			<to>90</to>
+			<read>\</read>
+		</transition>
+		<transition>
+			<from>115</from>
+			<to>116</to>
+			<read>"</read>
+		</transition>
+	</automaton>
+</structure>
