@@ -10,9 +10,6 @@ def load_formal_spec(file_path):
     try:
         with open(file_path, 'r') as file:
             lines = file.readlines()
-            print("Contenido del archivo de especificación:")
-            for line in lines:
-                print(line.strip())  
             
             for line in lines:
                 if line.startswith("F ="):
@@ -43,7 +40,7 @@ def load_formal_spec(file_path):
 
     return transitions, final_states
 
-transitions, final_states = load_formal_spec('./especificacion-formal.txt')
+transitions, final_states = load_formal_spec('./especificacion_formal.txt')
 
 print("Transiciones cargadas:")
 for state, trans in transitions.items():
@@ -114,7 +111,10 @@ def process_file(file_path, output_csv):
         if text.strip():  
             accepted, last_position = simulate_automaton(text)
             result = "Aceptada" if accepted else "No aceptada"
-            results.append([line_num, last_position, text, result])
+            if accepted:
+                results.append([line_num, last_position, text, result])
+            #results.append([line_num, last_position, text, result])
+                
 
     save_to_csv(results, output_csv)
 
@@ -138,7 +138,7 @@ def select_file():
 
 def create_gui():
     root = tk.Tk()
-    root.title("Procesador de Autómata con .docx")
+    root.title("Autómata CMD-SHELL")
     root.geometry("300x150")
 
     label = tk.Label(root, text="Selecciona un archivo .docx para procesar:")
